@@ -20,7 +20,7 @@ setup(**{
     'install_requires': (
         'cybersource-rest-client-python>=0.0.36',
         'django<4.0,>=2.2.12',
-        'mitol-django-common~=2.4.0',
+        'mitol-django-common~=2.2.4',
         'setuptools',
     ),
     'license': 'BSD 3-Clause License',
